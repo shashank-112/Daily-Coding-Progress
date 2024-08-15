@@ -1,1 +1,0 @@
-revers_of_my_string
